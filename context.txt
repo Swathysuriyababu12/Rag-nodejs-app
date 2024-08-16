@@ -1,0 +1,76 @@
+SWATHY S                                                              Full Stack Developer 
+swathysuriyababu.com | LinkedIn | GitHub | Leetcode                             swathysuryababu@gmail.com  
+ 
+TECHNICAL SKILLS  
+• Languages: JavaScript, C++ 
+• Frontend:HTML5, CSS3, React, Redux,TailwindCSS, Bootstrap 
+• Backend: Node.js, Express 
+• Databases: MongoDB, SQL,Redis,DynamoDB 
+• DevOps & Cloud : AWS, Jenkins, Docker, Kubernetes, EFS 
+• Miscellaneous:Data Structures and Algorithms (DSA) with C++,Agile methodologies 
+ EXPERIENCE  
+GUVI-GEEKS                                                                                                                                                  IITM research Park, Tharamani  
+           FULL STACK DEVELOPER, L1                            May 2023 – Present 
+• Implemented and managed automated scheduling using Node.js and node-cron for the Zen Class portal. Developed 
+and optimized cron jobs for session notifications, feedback summaries, task reminders, ticket management, and 
+attendance reports. Enhanced operational efficiency and scalability through dynamic job management, email 
+automation, and real-time alerts. Utilized MERN stack for seamless integration and backend automation. 
+• Developed and maintained a certificate management using Node.js and MongoDB. Implemented functions for creating, 
+retrieving, and deleting certificates, as well as managing download access. Utilized Mongoose for schema-based modeling 
+and database interactions, ensuring efficient and scalable certificate management. 
+• Implemented functions for course retrieval, creation, and deletion, with integration of Redis caching for performance 
+optimization. Enhanced functionality with data population and asynchronous operations, ensuring efficient and 
+scalable course data management 
+• Provided real-time guidance on students' capstone projects, leveraging expertise in full-stack development to support 
+project planning, architecture design, and implementation. Utilized hands-on mentorship to address technical 
+challenges, optimize code quality, and ensure adherence to best practices. Employed tools and methodologies for 
+project management and version control, facilitating effective collaboration and progress tracking throughout the 
+project lifecycle. 
+• MERNovation-Introduced and coordinated the entire full stack hackathon event,from April 27 to June-7 
+ 
+     TECH-SUPPORT INTERN-MERN                        Feb 2023 – April 2023 
+• Troubleshot and fixed bugs and issues in the mern stack projects to ensure smooth operation of the applications 
+• Writing code for blog projects and resolving technical queries. 
+ENTRI APP                                                                                                                                                                                             Kerala 
+           CONSULTANT                         Oct  2022 – Dec 2022 
+• Designed the complete learning path for the Full stack Web development course with project based learning philosophy. 
+• Created 100 plus hours of video content for MERN stack web development course, presently one of the top selling courses on ENTRI, an Illinois certified course. 
+WHITEHAT JUNIOR                                  Mumbai 
+             CODING-INSTRUCTOR                                                                                                                                              Sept 2020 – Jan 2023 
+• Assisted students to build games using core logic building concepts of JavaScript. 
+• Helped students to create Android specific apps using React Native 
+ 
+EDUCATION  
+Sri Venkateswara College of Engineering Chennai 
+Bachelor of Electrical and Electronics Engineering-CGPA-8.66 Jun 2014 – May 2018 
+ 
+Sunbeam CBSE School Vellore 
+Senior School-Percentage-93 Jun 2013 – May 2014 
+ 
+Sunbeam CBSE School Vellore 
+Secondary School -CGPA-10 Jun 2011 – May 2012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+----------------Page (0) Break----------------
+PROJECTS  
+GMAIL-Clone React.js, Express,NodeJs, MongoDB  Source Code 
+Designed and developed a clean and modern email application that mimics Gmail's user interface and functionality.Focused on 
+optimizing the application for speed and enhancing user experience, with features such as email composition, inbox management, and 
+real-time updates. 
+WanderLust-Travel site Express,NodeJs, MongoDB ,React Source Code 
+Created a travel site with a CRUD API for managing travel-related data. Implemented a RESTful API using Node.js and Express to 
+handle various HTTP methods (POST, GET, PATCH, DELETE) for managing travel destinations, itineraries, and user interactions. The 
+application provides a robust backend service for dynamic content management and user interaction. 
+RAG-Nodejs-App Express,NodeJs, MongoDB  Source Code 
+      Developed a Node.js application utilizing Express for the backend. This application integrates with openAI and uses 
+      MongoDB for data storage and management.The application showcases the use of LLM’s and  
+      Retrieval-Augmented Generation (RAG) for advanced data retrieval and interaction 
+ 
+ 
+ 
+----------------Page (1) Break----------------
